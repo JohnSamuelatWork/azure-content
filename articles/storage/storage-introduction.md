@@ -21,7 +21,7 @@
 
 ## Overview
 
-Azure Storage is the cloud storage solution for modern applications that rely on durability, availability, and scalability to meet te needs of their customers. By reading this article, developers, IT Pros, and business decision makers can learn about about:
+Azure Storage is the cloud storage solution for modern applications that rely on durability, availability, and scalability to meet the needs of their customers. By reading this article, developers, IT Pros, and business decision makers can learn about about:
 
 - What Azure Storage is, and how you can take advantage of it in your cloud, mobile, server, and desktop applications
 - What kinds of data you can store with the Azure Storage services: blob (object) data, NoSQL table data, queue messages, and file shares.
